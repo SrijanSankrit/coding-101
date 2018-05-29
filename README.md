@@ -19,13 +19,13 @@
         - **git init**
         - **git add coding101**
         - **git commit -m "tasks"**
-        - ** git remote add coding https://github.com/sankr170104072/coding-101 **
-        - ** git push -u coding master **
-        - ** git add README.md **
-        - ** git commit -m "tasks3" **
-        - ** git push**
+        - **git remote add coding https://github.com/sankr170104072/coding-101**
+        - **git push -u coding master**
+        - **git add README.md**
+        - **git commit -m "tasks3"**
+        - **git push**
         *
-3. * Finally I am addig this README file *
+3. *Finally I am adding this README file*
 
 #THANK YOU
 
