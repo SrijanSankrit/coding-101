@@ -10,7 +10,7 @@
 
 1. *We copied the text from [https://github.com/php/playground/blob/master/HelloWorld.txt](https://github.com/php/playground/blob/master/HelloWorld.txt )*
 2. *I used grep to search  for instances of '**_World_**' in which I used command **grep -i 'World' hello.txt***
-3. *I transferred the terminal output to **_output.txt_** using the command "**grep  'World' hello.txt > output.txt**" *
+3. *I transferred the terminal output to **_output.txt_** using the command "**grep  'World' hello.txt > output.txt**"*
 
 **Task 3**
 
