@@ -23,8 +23,7 @@
         - **git push -u coding master**
         - **git add README.md**
         - **git commit -m "tasks3"**
-        - **git push**
-        *
+        - **git push***
 3. *Finally I am adding this README file*
 
 #THANK YOU
