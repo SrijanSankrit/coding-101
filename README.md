@@ -14,7 +14,7 @@
 
 **Task 3**
 
-1. *I created a public repo on my github accoutn named **coding-101** *
+1. *I created a public repo on my github account named **coding-101** *
 2. * I uploaded the coding101 file containing the previous two tasks using 
         - **git init**
         - **git add coding101**
